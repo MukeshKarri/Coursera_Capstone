@@ -1,2 +1,2 @@
 # Coursera_Capstone
-A project related to using python in analysis
+A project in using python for data analysis
